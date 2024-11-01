@@ -75,11 +75,11 @@ The code for generating the cards is licensed under the [Apache 2.0 license](htt
 
 ## Acknowledgements
 
-Watch closely 🕵️‍♀️ All cards that have the NL-RSE logo on it were thought of by the community during a session on the [National Research Software Day 2024](https://www.esciencecenter.nl/national-research-software-day-2024/).
+Watch closely 🕵️‍♀️ All cards that have the NL-RSE logo on them were thought of by the community during a session on the [National Research Software Day 2024](https://www.esciencecenter.nl/national-research-software-day-2024/).
 
 <img src="nlrse_whitelogo.png" width="15%" height="15%">
 
-This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. You can find a continuously updates list of all our contributors [on our website](https://ghostcollective.github.io/).
+This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. You can find a continuously updated list of all our contributors [on our website](https://ghostcollective.github.io/).
 
 Previous GHOST collective games can be found [here](https://ghostcollective.github.io/games.html). These include physical and online card games as well as online escape rooms.
 
