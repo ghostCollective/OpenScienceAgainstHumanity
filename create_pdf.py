@@ -17,7 +17,7 @@ def add_nlrse(page, imgPath):
     # overlay qr code on page
     imgTemp.seek(0)
     overlay = PdfReader(imgTemp).pages[0]
-    op = Transformation().rotate(0).translate(tx=30, ty=230)
+    op = Transformation().rotate(0).translate(tx=40, ty=230)
     overlay.add_transformation(op)
     page.merge_page(overlay)
     return page
